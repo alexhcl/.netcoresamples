@@ -8,7 +8,7 @@ trigger:
 
 pool:
   #vmImage: 'windows-latest'
-  name: alexpipeline. 
+  name: WIN-OU9MOMJBM6U 
   #demands: string | [ string ] # List of demands (for a private pool)
   #vmImage: string # Name of the VM image you want to use; valid only in the Microsoft-hosted pool.
 
